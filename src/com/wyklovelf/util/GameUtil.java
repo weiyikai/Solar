@@ -12,7 +12,7 @@ import javax.imageio.ImageIO;
  * 游戏开发中的常用的工具类(比如：加载图片等方法)
  * @author weiyikai
  *
- */
+ */ 
 public class GameUtil {
 
 	/**
