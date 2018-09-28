@@ -13,9 +13,9 @@ import javax.imageio.ImageIO;
  * @author weiyikai
  *
  */ 
-public class GameUtil {
-  
-	/** 
+public class GameUtil { 
+     
+	/**     
 	 * 
 	 * @param path
 	 * @return
