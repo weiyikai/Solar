@@ -15,7 +15,7 @@ import javax.imageio.ImageIO;
  */ 
 public class GameUtil {
   
-	/**
+	/** 
 	 * 
 	 * @param path
 	 * @return
