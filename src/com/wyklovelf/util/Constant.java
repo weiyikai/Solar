@@ -1,10 +1,10 @@
 package com.wyklovelf.util;
 
 /**
- * ÓÎÏ·ÏîÄ¿ÖÐÓöµ½µÄ³£Á¿
+ * ï¿½ï¿½Ï·ï¿½ï¿½Ä¿ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä³ï¿½ï¿½ï¿½
  * @author weiyikai
  *
- */
+ */ 
 public class Constant {
 	
 	public static final int GAME_WIDTH = 800;
